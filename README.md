@@ -1,2 +1,2 @@
-# cobol-programming-course
-Lab exercises from IBM COBOL Programming with VSCode course (Open Mainframe Project)
+COBOL programs and mainframe projects — sequential file processing,
+batch payroll, tables and indexed files. Built for portfolio and learning.

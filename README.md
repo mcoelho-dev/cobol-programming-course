@@ -19,4 +19,6 @@ The course teaches COBOL development in a mainframe (z/OS) environment using VS 
 
 ## Certification
 
-Course completed with certificate issued by the Open Mainframe Project / IBM.
+<img src="https://images.credly.com/size/340x340/images/866e16a4-f013-41c7-bff9-6ddeb4a3f27c/COBOL_VSCode.png" alt="COBOL Programming with VSCode Badge" width="150"/>
+
+Course completed with the **[COBOL Programming with VSCode](https://www.credly.com/badges/69acd391-6af7-43ff-b1f5-f7a35d99d2b8/public_url)** badge, issued by the Open Mainframe Project / IBM.

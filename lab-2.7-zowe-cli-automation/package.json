@@ -1,0 +1,12 @@
+{
+  "name": "cobol-programming",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "miguel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "clg": "zowe jobs submit ds \"Z76689.JCL(HELLO)\" -d ."
+  }
+}

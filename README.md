@@ -16,6 +16,8 @@ The course teaches COBOL development in a mainframe (z/OS) environment using VS 
 | Lab | Description | Status |
 |-----|-------------|--------|
 | [2.6 - Hello World](./lab-2.6-hello-world) | Connecting via Zowe, compiling and running a basic COBOL program via JCL | ✅ Completed |
+| [2.7 - Zowe CLI & Automation](./lab-2.7-zowe-cli-automation) | Using Zowe CLI interactively and automating the compile-link-go cycle via npm | ✅ Completed |
+| [3.2 - PAYROL00/PAYROL0X Debugging](./lab-3.2-payroll-debugging) | Debugging a COBOL compilation error using compiler diagnostics | ✅ Completed |
 
 ## Certification
 

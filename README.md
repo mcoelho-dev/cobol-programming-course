@@ -20,6 +20,7 @@ The course teaches COBOL development in a mainframe (z/OS) environment using VS 
 | [3.2 - PAYROL00/PAYROL0X Debugging](./lab-3.2-payroll-debugging) | Debugging a COBOL compilation error using compiler diagnostics | ✅ Completed |
 | [4.6 - Sequential vs Binary Search](./lab-4.6-search-sequential-binary) | Comparing SEARCH and SEARCH ALL for table lookups | ✅ Completed |
 | [6.8 - CBL0033 Subprogram Call](./lab-6.8-cbl0033-subprogram-call) | Static subprogram linking with CALL, two-step compile and link-edit | ✅ Completed |
+| [7.5 - Currency Symbol Fix](./lab-7.5-currency-symbol-fix) | Debugging a report formatting issue using COBOL picture clauses | ✅ Completed |
 
 ## Certification
 

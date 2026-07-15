@@ -22,6 +22,7 @@ The course teaches COBOL development in a mainframe (z/OS) environment using VS 
 | [6.8 - CBL0033 Subprogram Call](./lab-6.8-cbl0033-subprogram-call) | Static subprogram linking with CALL, two-step compile and link-edit | ✅ Completed |
 | [7.5 - Currency Symbol Fix](./lab-7.5-currency-symbol-fix) | Debugging a report formatting issue using COBOL picture clauses | ✅ Completed |
 | [8.6 - IF Statement Syntax Debug](./lab-8.6-cbl0006-cbl0007-syntax-debug) | Debugging a misplaced period breaking IF/END-IF scope | ✅ Completed |
+| [9.2 - Case Sensitivity Debug](./lab-9.2-case-sensitivity-debug) | Debugging a logic error caused by case-sensitive string comparison | ✅ Completed |
 
 ## Certification
 
